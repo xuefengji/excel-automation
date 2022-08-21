@@ -1,0 +1,6 @@
+{
+  "email_server": "smtp.qiye.163.com",
+  "user_list" : ["111@qq.com"],
+  "email_name": "xxxxx.com",
+  "email_password": "xxxx"
+}
